@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0 auto;
+}
+
+.shadow-inpt {
+    box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0.2),inset -5px -5px 44px 15px rgba(255, 255, 255, 0.8);
+}
+
+.shadow-form {
+    box-shadow: 20px 22px 47px 14px rgba(0, 0, 0, 0.2), -29px -29px 44px 15px rgba(255, 255, 255, 0.8);
+}
+
+.shadow-btn {
+    box-shadow: 10px 10px 33px 1px #9673d1;
+}
