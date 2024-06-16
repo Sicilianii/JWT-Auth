@@ -1,5 +1,5 @@
 import React from 'react';
-import {mulish} from "@/app/fonts";
+import {mulish} from "../fonts";
 
 
 function Page() {
